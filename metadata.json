@@ -1,0 +1,6 @@
+{
+  "name": "GiziCare",
+  "description": "An elegant, interactive, and memorable BMI and ideal weight calculator with a health progress history tracker and direct nutritionist consultation CTA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
